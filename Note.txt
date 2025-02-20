@@ -1,0 +1,30 @@
+===== Buoi 7 =====
+    * Routing: react-router-dom
+
+
+===== Buoi 8 =====
+    * Redux
+
+===== Buoi 9 =====
+    * Redux - Booking ticket
+
+===== Buoi 10 =====
+    * Hooks:
+        - useState
+        - useEffect:
+            + chạy 1 lần duy nhất - Nếu đối số thứ 2 là mảng rỗng (dependency)
+            + chạy nhiều lần - nếu đối số thứ 2 là mảng khác rỗng
+            + destroy
+        - useCallback
+        - useMemo
+        - Custom Hook: tự bản thân thiết kế hook
+
+
+===== Buoi 11 =====
+    * ListMovie Page
+    * Detail Movie Page
+
+===== Buoi 12 =====
+    * Refactor API
+    * Auth
+    * Guard
